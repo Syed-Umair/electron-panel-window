@@ -11,7 +11,7 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "electron": "1.8.8",
+    "electron": "9.4.0",
     "mocha": "^5.2.0",
     "node-gyp": "^3.8.0",
     "spectron": "^5.0.0"
